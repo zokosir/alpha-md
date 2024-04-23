@@ -140,7 +140,7 @@ $ npm start
 </h2>
    
 ## 
-- Not For Sale
+- poor for  Sale
 - If A plugin's code is obfuscated , You don't have permission to deobfuscate or edit it in any form 
 - Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
 - Have A Good Day Ahead
